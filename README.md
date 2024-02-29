@@ -1,5 +1,15 @@
 # `@ubiquity/audit.ubq.fi`
 
+#### Install Dependencies
+- yarn
+
+#### Build
+- yarn build
+
+### Start UI
+
+- yarn start
+
 Test Uses:
 
 ```
