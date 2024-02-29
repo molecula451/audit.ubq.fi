@@ -1,8 +1,11 @@
-# `@ubiquity/ts-template`
+# `@ubiquity/audit.ubq.fi`
 
-This template repository includes support for the following:
+Test Uses:
 
-- TypeScript
-- Environment Variables
-- Conventional Commits
-- Automatic deployment to Cloudflare Pages
+```
+ {
+  "WALLET": "0xrandomwallet",
+  "REPO": "https://github.com/repo/repo",
+  "PAT": "YOUR_PAT"
+ }
+```
